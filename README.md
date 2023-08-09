@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Am learning shell permission commands
+0x03. Shell, init files, variables and expansions
